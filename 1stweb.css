@@ -1,0 +1,52 @@
+body{
+    background-color: whitesmoke;
+}
+#top-nav{
+    position:fixed;
+    top:0;
+    width: 100%;
+}
+#con1{
+    margin-top: 150px;
+}
+#li-m{
+    padding-left: 15px;
+}
+.p-class{
+    font-size: 35px;
+    font-style: italic;
+}
+/*.div2{
+    margin-top: 80px;
+    height: 400px;
+    background-image: url("rain.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: blur(6px);
+}*/
+.navbar-brand{
+    margin-left: 10px;
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+}
+
+#linkedin{
+    background-image: url("linkedin.png");
+    width: 80px;
+    height: 78px;
+}
+#git{
+    background-image: url("git.jpg");
+    width: 80px;
+    height: 78px;
+}
+
+#link-icons{
+    padding: 50px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+
