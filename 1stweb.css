@@ -1,13 +1,17 @@
 body{
     background-color: whitesmoke;
 }
-#top-nav{
+#top-nav, #top-nav-about{
     position:fixed;
     top:0;
     width: 100%;
 }
 #con1{
     margin-top: 150px;
+}
+#con_about{
+    margin-top: 150px;
+    background-color: gray;
 }
 #li-m{
     padding-left: 15px;

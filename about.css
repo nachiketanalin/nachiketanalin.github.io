@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+}
+#top-nav-about{
+    position:fixed;
+    top:0;
+    width: 100%;
+}
+#con_about{
+    margin-top: 100px;
+    /* margin-block : initial; */
+    padding: 50px;
+    /* background-color: gray */
+
+}
+#two_onwards{
+    padding: 15px;
+}
+/* #top_row
+{
+    padding: 0%;
+} */
+#li-m{
+    padding-left: 15px;
+}
+.p-class{
+    font-size: 35px;
+    font-style: italic;
+}
+/*.div2{
+    margin-top: 80px;
+    height: 400px;
+    background-image: url("rain.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: blur(6px);
+}*/
+.navbar-brand{
+    margin-left: 10px;
+}
+.about-data{
+    text-align: center;
+    font-size: 20px;
+}
+
+/* .heading{
+    width: 75%;
+} */
+
+#row-heading1{
+
+    /* width: 75%; */
+    /* margin-left: 18%;
+    margin-right: 18%; */
+    font-family: "Arial Black", sans-serif;
+    font-size: 30px;
+    letter-spacing: -1px;
+    background-color: green;
+    color: white;
+}
+#row-heading2{
+
+    font-family: "Arial Black", sans-serif;
+    font-size: 30px;
+    letter-spacing: -1px;
+    background-color: orangered;
+    color: white;
+}
+#row-heading3{
+
+    font-family: "Arial Black", sans-serif;
+    font-size: 30px;
+    letter-spacing: -1px;
+    background-color: rgb(247, 10, 208);
+    color: white;
+}
+#row-heading4{
+
+    font-family: "Arial Black", sans-serif;
+    font-size: 30px;
+    letter-spacing: -1px;
+    background-color: rgb(76, 217, 241);
+    color: white;
+}
+
+
