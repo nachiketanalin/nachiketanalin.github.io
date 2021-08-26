@@ -37,12 +37,12 @@ body{
 }
 
 #linkedin{
-    background-image: url("linkedin.png");
+    background-image: url("/Images/linkedin.png");
     width: 80px;
     height: 78px;
 }
 #git{
-    background-image: url("git.jpg");
+    background-image: url("/Images/git.jpg");
     width: 80px;
     height: 78px;
 }
